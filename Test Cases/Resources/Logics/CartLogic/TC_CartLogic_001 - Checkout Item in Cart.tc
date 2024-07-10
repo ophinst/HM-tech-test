@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CartLogic_001 - Checkout Item in Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd19645b-a704-4515-8dfa-563eb890ef07</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Checkout_001 - User Able to Checkout Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>020a83ae-c762-42f7-986e-083a6c8d6ae7</testCaseGuid>
+</TestCaseEntity>

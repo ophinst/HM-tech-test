@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_LoginLogic_001 - User Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50c2d3dc-ebd8-421a-b511-2e02b2d1cb6f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_HomepageLogic_001 - Add Product to Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ba6ced7-79e6-41ae-a3ca-980b9c6e924c</testCaseGuid>
+</TestCaseEntity>

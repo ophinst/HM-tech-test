@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Resources_002 - Generate Random Number to Choose Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8cefef47-f930-4e5d-8474-18834267c81a</testCaseGuid>
+</TestCaseEntity>
